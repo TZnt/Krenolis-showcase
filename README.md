@@ -21,6 +21,25 @@ Ce dépôt est un dépôt de présentation — le code source est privé.
   en option.
 - Paiement en ligne par carte (Stripe Connect) ou encaissement manuel, au choix de la structure.
 
+## Aperçu
+
+<p align="center">
+  <img src="assets/krenolis-nf525.png" alt="Écran de conformité NF525 : intégrité du journal, clôtures journalières scellées par hachage SHA-256" width="640">
+  <br><em>Conformité NF525 : intégrité du journal de caisse vérifiée par chaîne de hachage SHA-256</em>
+</p>
+
+<p align="center">
+  <img src="assets/krenolis-planning.png" alt="Planning global multi-moniteurs de Krenolis, vue par jour" width="640">
+  <br><em>Planning global multi-moniteurs</em>
+</p>
+
+<p align="center">
+  <img src="assets/krenolis-stats.png" alt="Statistiques Krenolis : chiffre d'affaires par moniteur et par discipline" width="640">
+  <br><em>Statistiques : chiffre d'affaires par moniteur et par discipline</em>
+</p>
+
+*Captures réalisées sur le tenant de démonstration, avec des données fictives.*
+
 ## Stack
 
 React, TypeScript, Vite, Firebase (Firestore, Functions, Hosting), Stripe Connect.
